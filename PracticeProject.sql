@@ -44,9 +44,9 @@ CREATE TABLE Students (
 
 INSERT INTO Students (StudentID, FirstName, LastName, ClassID, SubjectID)
 VALUES
-    (1, 'Varun', 'Shamra', 101, 1),    
-    (2, 'Rishi', 'Deol', 102, 2),
-    (3, 'Aatif ', 'Rajan', 103, 3);
+    (1, 'Varun', 'Shamra', 110, 1),    
+    (2, 'Rishi', 'Deol', 112, 2),
+    (3, 'Aatif ', 'Rajan', 113, 3);
 
 
 
